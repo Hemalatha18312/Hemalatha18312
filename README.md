@@ -101,10 +101,10 @@ public class Hemalatha : SoftwareDeveloper
 
 <div align="center">
 
-<a href="https://github.com/hemalatha-anandhan">
+<a href="https://github.com/Hemalatha18312">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemalatha-anandhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/hemalatha-anandhan">
+<a href="https://github.com/Hemalatha18312">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalatha-anandhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -116,7 +116,7 @@ public class Hemalatha : SoftwareDeveloper
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hemalatha-anandhan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hemalatha18312&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +126,7 @@ public class Hemalatha : SoftwareDeveloper
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemalatha-anandhan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hemalatha-anandhan)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha18312&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hemalatha-anandhan)
 
 </div>
 
